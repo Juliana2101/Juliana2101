@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Java & Angular Specialist </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=NareImbachi&label=Profile%20views&color=0e75b6&style=flat" alt="nareimbachi" />
+  <img src="https://komarev.com/ghpvc/?username=Juliana2101&label=Profile%20views&color=0e75b6&style=flat" alt="nareimbachi" />
 </p>
 
 ---
@@ -76,5 +76,5 @@ Systems Engineering, my passion is to transform ideas into <strong>robust, intui
 
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/naren-alejandro-imbachi-quinayas-028a413b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/juliana-campo-polindara-b721013b8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin-username" height="30" width="40" /></a>
 </p>
